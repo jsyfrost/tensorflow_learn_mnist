@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\python-code\\tensorflow_learn_mnist\\model\\mnist.ckpt-0"
+all_model_checkpoint_paths: "D:\\python-code\\tensorflow_learn_mnist\\model\\mnist.ckpt-0"
